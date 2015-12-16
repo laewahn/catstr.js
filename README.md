@@ -8,7 +8,7 @@ Cats'tr is so easy to use that we could not bother writing extensive documentati
 
 ## Usage
 
-Install Cats'tr.js simply run
+Installing Cats'tr.js
 
 ```
 npm install -g catstr
