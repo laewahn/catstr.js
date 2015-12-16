@@ -16,7 +16,7 @@ npm install -g catstr
 
 Create a file named `mittens.js` with the following content:
 
-```
+```javascript
 var catstr = require('catstr');
 
 var meow = catstr.request(function(requestBuilder) {
